@@ -5,3 +5,11 @@
 Non-agile
     Pros: Predictable, have a concrete plan right from the start
     Cons: Slower, if one step stops, all the following step will be on hold -> bottleneck
+
+(b) Scrum master:
+    - Plan and execute the Agile Methodology with the Scrum development team
+    - Work with the Product Owner to make sure the product backlog is up to date
+    
+    Product Owner:
+    - Create and maintain product backlog
+    - Work with the Scrum Master to ensure the product's development aligns with its original vision

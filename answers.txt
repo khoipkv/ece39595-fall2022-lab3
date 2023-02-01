@@ -13,3 +13,8 @@ Non-agile
     Product Owner:
     - Create and maintain product backlog
     - Work with the Scrum Master to ensure the product's development aligns with its original vision
+
+(c) 3 types
+    - Sprint Planning Meeting: At the beginning of a sprint, to plan the sprint, develop realistic Sprint backlog and define the highest priority tasks
+    - Sprint Review Meeting: The end of each sprint, to evaluate the final product and review the team's effort
+    - Sprint Retrospective Meeting: To review what went right and what could have done better with the sprint. This serves the purpose of reflecting the sprint

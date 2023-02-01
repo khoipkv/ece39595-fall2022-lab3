@@ -18,3 +18,8 @@ Non-agile
     - Sprint Planning Meeting: At the beginning of a sprint, to plan the sprint, develop realistic Sprint backlog and define the highest priority tasks
     - Sprint Review Meeting: The end of each sprint, to evaluate the final product and review the team's effort
     - Sprint Retrospective Meeting: To review what went right and what could have done better with the sprint, which is for reflecting the sprint.
+
+(d) - An Epic is a large body of work, may take multiple sprints
+    - A story is a software system requirement that doesn't need technical wordings
+    - A task is a technical problem that needs to be done
+    - A bug is a point of failure in a product and needs to be fixed
